@@ -9,6 +9,7 @@ Macro for Word that makes all commas, periods, and spaces 2 points larger font
 
 ### Using Essay Helper with an existing essay
 This works with Macs on Word 15.15. I wrote this in 15 mins and don't feel like testing it anywhere else. ¯\_(ツ)_/¯
+
 1. Download the [latest version](https://github.com/jononon/essayhelper/releases/latest)
 2. Open essayhelper.dotm
 3. Select the window with the essay you would like to modify
