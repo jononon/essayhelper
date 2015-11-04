@@ -2,7 +2,7 @@
 Macro for Word that makes all commas, periods, and spaces 2 points larger font
 
 ## Running Essay Helper
-### Starting an essay in Essay Helpr
+### Starting an essay in Essay Helper
 1. Download the [latest version](https://github.com/jononon/essayhelper/releases/latest)
 2. Open essayhelper.dotm
 2. Begin writing
